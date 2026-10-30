@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # salle_musculation_app
 
 Application web de gestion d’une salle de musculation, prévue avec la stack MERN :
